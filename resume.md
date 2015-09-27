@@ -14,12 +14,17 @@ Ik heb kennis in:
 * css
 * JavaScript
 * JQuery
+
+
 #Softwarekennis 
+
 |Adobe|Microsoft Office|
 |--------------------|:-------|
 |Illustrator|Word|
 |PhotoShop|Excel|
 |After Effects|Power Point|
 |Premiere Pro|Acces|
+
+
 #Contactinformatie
 * valerie.vandenplas@arteveldehs.be
